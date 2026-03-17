@@ -1,4 +1,4 @@
-Welcome-to-Swift
+Welcome李述祥-to-Swift
 ================
 
 Swift 是苹果在 WWDC 2014 上推出的新编程语言。为了帮开发者尽快熟悉这门语言，CocoaChina 翻译小组将苹果官方文档进行了翻译，敬请指正。
